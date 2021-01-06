@@ -31,7 +31,7 @@
     "@wdio/spec-reporter": "^5.8.0",
     "@wdio/sync": "^5.9.6",
     "allure-commandline": "^2.9.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-eslint": "^10.0.1",
     "cucumber": "^5.1.0",
     "eslint": "^5.16.0",
